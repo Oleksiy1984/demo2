@@ -20,5 +20,6 @@ public class Hello {
     public static void main(String[] args) {
 Person jk=new Person("personName");
         System.out.println(jk.greet("Alex"));
+        System.out.println(123);
     }
 }
